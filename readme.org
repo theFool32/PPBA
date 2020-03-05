@@ -1,8 +1,7 @@
 This is the project page of our paper:
 
-*Projection & Probability-Driven Black-Box Attack*,
-
-Li, J., Ji, R., Liu, H., Liu, J., Zhong, B., Deng, C., & Tian, Q.\\
+*Projection & Probability-Driven Black-Box Attack*,\\
+Li, J., Ji, R., Liu, H., Liu, J., Zhong, B., Deng, C., & Tian, Q.
 CVPR 2020.(PDF coming soon)
 
 
@@ -14,12 +13,11 @@ To run PPBA, please check =main.py= for ImageNet and =gcv.py= for Google Cloud V
 ** Citation
 If our paper helps your research, please cite it in your publications:
 #+BEGIN_SRC
-@InProceedings{Li_2019_ICCV,
-author = {Li, Jie and Ji, Rongrong and Liu, Hong and Hong, Xiaopeng and Gao, Yue and Tian, Qi},
-title = {Universal Perturbation Attack Against Image Retrieval},
-booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
-month = {October},
-year = {2019}
+@InProceedings{Li_2020_CVPR,
+author = {Li, Jie and Ji, Rongrong and Liu, Hong and Liu, Jianzhuang and Zhong, Bineng and Deng, Cheng and Tian, Qi},
+title = {Projection & Probability-Driven Black-Box Attack},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+year = {2020}
 }
 #+END_SRC
 
