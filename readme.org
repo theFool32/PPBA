@@ -2,14 +2,14 @@ This is the project page of our paper:
 
 *Projection & Probability-Driven Black-Box Attack*,
 
-Li, J., Ji, R., Liu, H., Liu, J., Zhong, B., Deng, C., & Tian, Q.
+Li, J., Ji, R., Liu, H., Liu, J., Zhong, B., Deng, C., & Tian, Q.\\
 CVPR 2020.(PDF coming soon)
 
 
 ** Code
 Our codes are based on [[https://github.com/cg563/simple-blackbox-attack][cg563/simple-blackbox-attack]]. Please refer to their repository for more details.
 
-To run PPBA, please check =main.py= for ImageNet and =gcv.py= for Google CLoud Vision API.
+To run PPBA, please check =main.py= for ImageNet and =gcv.py= for Google Cloud Vision API.
 
 ** Citation
 If our paper helps your research, please cite it in your publications:
