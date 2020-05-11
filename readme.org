@@ -2,7 +2,7 @@ This is the project page of our paper:
 
 *Projection & Probability-Driven Black-Box Attack*,\\
 Li, J., Ji, R., Liu, H., Liu, J., Zhong, B., Deng, C., & Tian, Q.
-CVPR 2020.(PDF coming soon)
+CVPR 2020. [[https://arxiv.org/abs/2005.03837][arXiv]]
 
 
 ** Code
